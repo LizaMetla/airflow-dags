@@ -1,0 +1,84 @@
+{
+    "_id": "666ccb8d7e43efcc65dbeacb",
+    "bonus_grant": 463,
+    "bonus_payment": 1003,
+    "cost": 10231,
+    "date": "2024-06-14 23:00:29",
+    "final_status": "CLOSED",
+    "order_items": [
+        {
+            "id": "9228453584d3056edaca3e90",
+            "name": "Чиз Наан",
+            "price": 225,
+            "quantity": 4
+        },
+        {
+            "id": "080d4248a4673012342b116a",
+            "name": "Муттон Карри",
+            "price": 649,
+            "quantity": 1
+        },
+        {
+            "id": "e2cf449a9a96e33881fe50a5",
+            "name": "Дал Тарка",
+            "price": 390,
+            "quantity": 1
+        },
+        {
+            "id": "aeca4d08abab78869c20128c",
+            "name": "Рис с лимоном",
+            "price": 175,
+            "quantity": 2
+        },
+        {
+            "id": "e9214c6eab68e7625e6948c8",
+            "name": "Панир Пакора",
+            "price": 449,
+            "quantity": 4
+        },
+        {
+            "id": "413c484db69df84af89cab35",
+            "name": "Чили Машрум",
+            "price": 399,
+            "quantity": 4
+        },
+        {
+            "id": "47b947298daea892c7ae6c5f",
+            "name": "Баттер Наан",
+            "price": 120,
+            "quantity": 5
+        },
+        {
+            "id": "e86d440f87ba45c8280310dc",
+            "name": "Чили Проун",
+            "price": 790,
+            "quantity": 5
+        }
+    ],
+    "payment": 10231,
+    "restaurant": {
+        "id": "ef8c42c19b7518a9aebec106"
+    },
+    "statuses": [
+        {
+            "dttm": "2024-06-14 23:00:29",
+            "status": "CLOSED"
+        },
+        {
+            "dttm": "2024-06-14 22:17:21",
+            "status": "DELIVERING"
+        },
+        {
+            "dttm": "2024-06-14 21:39:44",
+            "status": "COOKING"
+        },
+        {
+            "dttm": "2024-06-14 20:52:34",
+            "status": "OPEN"
+        }
+    ],
+    "update_ts": "2024-06-14 23:00:29",
+    "user": {
+        "id": "626a81ce9a8cd1920641e29e"
+    }
+}
